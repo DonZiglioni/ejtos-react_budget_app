@@ -13,6 +13,19 @@
   }
 }
 
+.dropbox {
+    background-color: aquamarine;
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: black;
+}
+
+.curDisplay {
+    font-size: 20;
+   padding-left: 20px;
+   padding-right: 5px;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
