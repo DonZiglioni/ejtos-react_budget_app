@@ -19,6 +19,13 @@
     border-width: 2px;
     border-color: black;
 }
+.plus {
+    color: rgb(1, 236, 1)
+}
+
+.minus {
+    color: rgb(197, 4, 4)
+}
 
 .curDisplay {
     font-size: 20;
